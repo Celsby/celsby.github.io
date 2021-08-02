@@ -1,5 +1,5 @@
 ---
-title: Starting Out
+title: Etiquette
 collection: help
 layout: collection
 ---

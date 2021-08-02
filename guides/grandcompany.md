@@ -1,5 +1,5 @@
 ---
-title: Starting Out
+title: Grand Company
 collection: help
 layout: collection
 ---

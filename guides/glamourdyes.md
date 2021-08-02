@@ -1,5 +1,5 @@
 ---
-title: Starting Out
+title: Glamour and Dyes
 collection: help
 layout: collection
 ---

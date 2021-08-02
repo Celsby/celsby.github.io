@@ -1,5 +1,5 @@
 ---
-title: Starting Out
+title: Progression
 collection: help
 layout: collection
 ---
