@@ -4,7 +4,11 @@
 
 layout: collection
 title: Home
-collection: help
 ---
-
-[Link to a page]({% link startingout.md %})
+I need help with
+[Starting out]({% link guides/startingout.md %})
+[Progression and Unlocks]({% link guides/progression.md %})
+[Grand Company]({% link guides/grandcompany.md %})
+[Glamour and Dyes]({% link guides/glamourdyes.md %})
+[Etiquette]({% link guides/etiquette.md %})
+[Gathering and Crafting]({% link guides/gatheringcrafting.md %})

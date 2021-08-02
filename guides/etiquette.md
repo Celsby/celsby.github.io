@@ -1,5 +1,7 @@
 ---
+title: Starting Out
 collection: help
+layout: collection
 ---
 # Starting out
 ## Start playing FFXIV
