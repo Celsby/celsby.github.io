@@ -5,4 +5,4 @@
 layout: home
 ---
 
-[Link to a page]({% link startingout.html %})
+[Link to a page]({% link startingout.md %})
