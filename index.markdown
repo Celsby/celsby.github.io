@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+[Link to a page]({{ site.baseurl }}{% link /startingout.html %})
