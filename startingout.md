@@ -1,3 +1,6 @@
+---
+collection: help
+---
 # Starting out
 ## Start playing FFXIV
 ## Choose a data center and server
