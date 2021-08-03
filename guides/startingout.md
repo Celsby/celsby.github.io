@@ -12,10 +12,12 @@ You need a license for the platform you are going to play on. There are currentl
 There are three European data centers:
 1. Chaos
 2. Light
+
 There are three Japanese data centers:
 1. Elemental
 2. Gaia
 3. Mana
+
 There are three North American data centers:
 1. Aether
 2. Primal
