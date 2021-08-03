@@ -4,8 +4,10 @@ collection: help
 layout: collection
 ---
 # Start playing Final Fantasy XIV
-## Signing up for the free trial
+<details><summary>## Signing up for the free trial</summary>
+
 You can sign up for a free trial at: https://freetrial.finalfantasyxiv.com/.
+</summary>
 ## Buying the game
 You need a license for the platform you are going to play on. There are currently three platforms: Windows, Mac, and PS4/PS5.
 # Choose a data center and server
