@@ -23,3 +23,5 @@ fields:
   config:
     required: false
   label: permalink
+pages:
+- docs/Patch 1.0/ul-dah.md
