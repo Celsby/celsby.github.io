@@ -4,21 +4,14 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: patch10
-  label: Patch 1.0
-  create: all
-  match: "**/*"
 - type: document
   path: index.md
   label: Home
 - type: directory
-  path: uldah10
-  label: Ul'dah Intro
-  create: documents
+  path: docs
+  label: Patch 1.0
+  create: all
   match: "**/*"
-  templates:
-  - page
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
