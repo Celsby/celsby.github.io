@@ -9,7 +9,7 @@ sections:
   label: Home
 - type: directory
   path: docs
-  label: Patch 1.0
+  label: docs
   create: all
   match: "**/*"
 upload_dir: assets/images
