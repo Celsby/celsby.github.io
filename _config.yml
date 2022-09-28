@@ -1,7 +1,11 @@
+domain: celsby.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://celsby.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+
+
+
 title: Just the Docs
 description: A Jekyll theme for documentation
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 theme: just-the-docs
 permalink: pretty
