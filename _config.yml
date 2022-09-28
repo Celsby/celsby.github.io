@@ -7,7 +7,7 @@ title: Just the Docs
 description: A Jekyll theme for documentation
 
 
-theme: just-the-docs
+theme: pmarsceill/just-the-docs
 permalink: pretty
 
 # Set a path/url to a logo that will be displayed instead of the title
